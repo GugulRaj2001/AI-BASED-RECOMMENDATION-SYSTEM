@@ -41,14 +41,9 @@ This approach not only fulfills the core requirement but also helped me gain a s
     
      ✅ Clean OOP Design: Separate classes for Movie, User, and Recommender
 
-## 🚀 Which Editor Used:          *Eclipse*
+## 🚀 Which Editor Used:           *Eclipse*
 
 # Task Execution:
-
-
----
-
-# 🚀 Task Execution:
 
 ### 1. Simulating the Dataset:
 
